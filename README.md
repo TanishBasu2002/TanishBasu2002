@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.Js and React Native**
 
-- 👨‍💻 All of my projects are available at [tanish-basu-portfolio.netlify.app](tanish-basu-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](tanish-basu-portfolio.netlify.app)
 
 - 💬 Ask me about **React Next.js and React Native**
 
