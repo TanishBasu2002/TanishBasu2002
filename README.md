@@ -17,11 +17,11 @@
 
 - 📫 How to reach me **tanishbasu50gmail.com**
 ## Conect With Me:
-<a href="https://www.linkedin.com/in/tanish-basu/">
-  <a href="https://skillicons.dev">
+
+  <a href="https://www.linkedin.com/in/tanish-basu/">
     <img src="https://skillicons.dev/icons?i=linkedin," />
   </a>
-</a>
+
 
 ## Skills:
 
