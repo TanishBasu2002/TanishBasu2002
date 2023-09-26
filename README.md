@@ -26,7 +26,7 @@
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,cpp,java,python" />
   </a>
 
 <br>
