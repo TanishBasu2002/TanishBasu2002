@@ -28,8 +28,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,cpp,java,python" />
   </a>
-
+  
+## My Badges Of Hacktober
+[![An image of @tanishbasu2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishbasu2002)](https://holopin.io/@tanishbasu2002)
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishbasu2002&show_icons=true&locale=en&layout=compact" alt="tanishbasu2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishbasu2002&show_icons=true&locale=en" alt="tanishbasu2002" /></p>
