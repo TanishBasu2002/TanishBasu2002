@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/106914208/213787558-aac27827-0e53-4125-9de9-23d6e18470ec.gif" width="600"/>
 
-<b>**Hi, 𝙸 𝚊𝚖 Tanish 𝚊 𝙱𝙲𝙰 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 and a aspearing Full Stack Developer...**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
+<b>**Hi, 𝙸 𝚊𝚖 Tanish 𝚊 𝙱𝙲𝙰 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 and an aspearing Full Stack Developer...**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
 </div>
 
 ---
