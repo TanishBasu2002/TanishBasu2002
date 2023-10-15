@@ -7,7 +7,7 @@
 
 ---
 
-#  𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ... <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
+# 💫 About Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 
 - 🌱 I’m currently learning **Next.Js and React Native**
 
@@ -16,24 +16,29 @@
 - 💬 Ask me about **React Next.js and React Native**
 
 - 📫 How to reach me **tanishbasu50gmail.com**
-## Conect With Me:
-
-  <a href="https://www.linkedin.com/in/tanish-basu/">
-    <img src="https://skillicons.dev/icons?i=linkedin," />
-  </a>
-
-
+## 🌐 Socials:
+  
+<a href="https://www.linkedin.com/in/tanish-basu/"><img src="https://skillicons.dev/icons?i=linkedin," /></a><a href="https://www.linkedin.com/in/tanish-basu/"><img src="https://skillicons.dev/icons?i=instagram," /></a>
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,cpp,java,python,linux,webflow," />
   </a>
   
 ## My Badges Of Hacktober
 [![An image of @tanishbasu2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishbasu2002)](https://holopin.io/@tanishbasu2002)
 <br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TanishBasu2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishBasu2002&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishbasu2002&show_icons=true&locale=en&layout=compact" alt="tanishbasu2002" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=TanishBasu2002&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishbasu2002&show_icons=true&locale=en" alt="tanishbasu2002" /></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/tanishbasu) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
