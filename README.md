@@ -30,7 +30,7 @@
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,docker,cpp,java,python,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,docker,cpp,java,python,linux,php,laravel" />
   </a>
   
 ## My Badges Of Hacktober
